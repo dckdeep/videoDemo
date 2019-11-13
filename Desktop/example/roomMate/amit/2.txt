@@ -1,0 +1,1 @@
+Based on my experience, the -i makes it slow down a lot, so don't use it if not necessary. Test it in a certain dir and then generalise. It should be completed within few minutes. I think a regular expression would make it slower. But my comments are based on suppositions, I suggest you to test it with time in front of the line.
